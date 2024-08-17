@@ -18,7 +18,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Nash_V1_Windows_cracker.git
+   git clone https://github.com/Althafnash/Nash_V1_Windows_Cracker.git
 
 Run the application to access the features.
 
